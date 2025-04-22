@@ -1,2 +1,1 @@
-# CP-II-BS
-Projeto Market-Place
+Checkpoint II de Business Systems Planning, Analysis & Design
